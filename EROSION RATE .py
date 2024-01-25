@@ -79,10 +79,3 @@ r2_test = r2_score(y_test, y_test_pred)
 print(f'Mean Squared Error (MSE) for Testing Data: {mse_test}')
 print(f'R-squared for Testing Data: {r2_test}')
 
-
-
-# In[ ]:
-
-
-
-
